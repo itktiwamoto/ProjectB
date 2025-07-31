@@ -1,0 +1,3 @@
+[submodule "SharedSimulinkModel"]
+	path = SharedSimulinkModel
+	url = https://github.com/itktiwamoto/SharedSimulinkModel
